@@ -5,6 +5,7 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Description](#description)
 - [Reference Circuit Diagram](#reference-circuit-diagram)
 - [eSim EDA Tool](#esim-eda-tool)
 - [Google SkyWater PDK](#google-skywater-pdk)
