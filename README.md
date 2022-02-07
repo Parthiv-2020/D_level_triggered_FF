@@ -24,7 +24,7 @@ The most important memory element in a sequential  logic circuit is Flip-Flop. A
 
 ## Reference Circuit Diagram
 
-![new_ckt_1](https://user-images.githubusercontent.com/74066861/152855208-b6bade16-51f1-4b46-a953-d87249f48d03.jpg)
+![Screenshot (137)](https://user-images.githubusercontent.com/74066861/152856551-be8c23e3-818f-47fc-aa21-50f239c5b55d.png)
 
 
 ## Description
