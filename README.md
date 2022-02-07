@@ -24,7 +24,6 @@ The most important memory element in a sequential  logic circuit is Flip-Flop. A
 
 ## Reference Circuit Diagram
 
-![Screenshot (137)](https://user-images.githubusercontent.com/74066861/152856551-be8c23e3-818f-47fc-aa21-50f239c5b55d.png)
 
 
 ## Description
@@ -35,4 +34,4 @@ result is SR flip flop is converted into a D flip-flop (data flip-flop or delay 
 
 ## Schematic Diagram
 
-![Screenshot (136)](https://user-images.githubusercontent.com/74066861/152856197-667a0579-ee05-4dda-8014-018028e0efa8.png)
+![Screenshot (137)](https://user-images.githubusercontent.com/74066861/152856551-be8c23e3-818f-47fc-aa21-50f239c5b55d.png)
