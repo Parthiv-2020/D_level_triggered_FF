@@ -37,3 +37,14 @@ result is SR flip flop is converted into a D flip-flop (data flip-flop or delay 
 ## Schematic Diagram
 
 ![Screenshot (137)](https://user-images.githubusercontent.com/74066861/152856551-be8c23e3-818f-47fc-aa21-50f239c5b55d.png)
+
+
+## Acknowledgement
+
+[Kunal Ghosh](https://github.com/kunalg123), Co-founder of VLSI System Design (VSD) Corp. Pvt. Ltd.
+
+
+## Author
+
+[Parthiv Kamath CS](https://github.com/Parthiv-2020), 3rd  Year  B.E. in Electronics and Communication Engineering
+- Contact: parthivkmth5@gmail.com
