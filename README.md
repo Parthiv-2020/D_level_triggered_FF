@@ -28,9 +28,8 @@ The most important memory element in a sequential  logic circuit is Flip-Flop. A
 
 ## Description
 
-In an SR flip flop, the condition S=R=1 generating invalid state is undesirable. To avoid this condition, a not gate is placed between the S and R inputs. The 
-result is SR flip flop is converted into a D flip-flop (data flip-flop or delay flip-flop). Here, the data is fed at the D input. The circuit consists of 3 PMOS and 3 NMOS transistors. When CLK=1 and D=0 ,VGS for M1 is +ve and hence M1 is on which in turn short circuits the source and drain terminals of M1. As a result, source of M1 will be at 0 level and gate of M2 will be at 5V as CLK=1 due to which VGS for M2 is +ve thereby M2 will be in off state. Hence input to CMOS inverter consisting of M3 and M4 is 0, therefore M3 will be in on state and M4 will be in off state thereby Qbar =1. This in turn turns off M5 and turns on M6, hence final output Q = 0. Similarlycircuit can be verified for other combinations.
-
+In an SR flip flop, the condition S=R=1 generatinginvalid state is undesirable. To avoid this condition, a not gate is placed between the S and R inputs. Theresult is SR flip flop is converted into a D flip-flop(data flip-flop or delay flip-flop). Here, the data is fedat the D input. The circuit consists of 5 PMOS and 5 NMOS transistors. In this reference circuit diagram, M1,M2,M5,M7 and M8 are PMOS transistors and M3,M4,M6,M9 and M10 are NMOS transistors. D
+input is fed simultaneously to both M1 and M4.M5 and M6 forms CMOS inverter. Output of second stage is Q, output of last stage is Qbar. When CLK=0, output Q remains in its previous state. WhenCLK=1 and D=1 ,Q=1.In the same lines when CLK=1 and D=0, Q=0.
 
 
 ## eSim EDA Tool
