@@ -5,8 +5,8 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Description](#description)
 - [Reference Circuit Diagram](#reference-circuit-diagram)
+- [Description](#description)
 - [eSim EDA Tool](#esim-eda-tool)
 - [Schematic Diagram](#schematic-diagram)
 - [Simulation Details](#simulation-details)
