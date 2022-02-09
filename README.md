@@ -35,6 +35,8 @@ result is SR flip flop is converted into a D flip-flop (data flip-flop or delay 
 
 ## Schematic Diagram
 
+![final_dff_page-0001](https://user-images.githubusercontent.com/74066861/153242896-ac11ebab-2164-472c-a756-e2bf5b24c834.jpg)
+
 
 
 
