@@ -35,6 +35,14 @@ result is SR flip flop is converted into a D flip-flop (data flip-flop or delay 
 
 
 
+## eSim EDA Tool
+eSim is an open source EDA tool for circuit design, simulation, analysis and PCB design, developed by FOSSEE Team at IIT Bombay. It is an integrated tool build using open source softwares such as KiCad, Ngspice and GHDL.
+
+
+
+
+
+
 
 ## Schematic Diagram
 
