@@ -10,7 +10,7 @@
 - [eSim EDA Tool](#esim-eda-tool)
 - [Schematic Diagram](#schematic-diagram)
 - [Simulation Details](#simulation-details)
-- [Ngspice Waveform](#ngspice-waveforms)
+- [Ngspice Waveform](#ngspice-waveform)
 - [References](#references)
 - [Acknowledgement](#acknowledgement)
 - [Author](#author)
