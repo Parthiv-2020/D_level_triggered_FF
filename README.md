@@ -9,6 +9,8 @@
 - [Reference Circuit Diagram](#reference-circuit-diagram)
 - [eSim EDA Tool](#esim-eda-tool)
 - [Schematic Diagram](#schematic-diagram)
+- [Simulation Details](#Simulation Details)
+- [Ngspice Waveform](#Ngspice Waveform)
 - [References](#references)
 - [Acknowledgement](#acknowledgement)
 - [Author](#author)
