@@ -8,7 +8,6 @@
 - [Description](#description)
 - [Reference Circuit Diagram](#reference-circuit-diagram)
 - [eSim EDA Tool](#esim-eda-tool)
-- [Google SkyWater PDK](#google-skywater-pdk)
 - [Schematic Diagram](#schematic-diagram)
 - [Write Opearation](#write-operation)
 - [Read Operation](#read-operation)
